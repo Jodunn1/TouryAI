@@ -22,6 +22,7 @@
 ## Frameworks used
 
 React Native
+Expo
 
 
 ## Future integrations or enhancements
